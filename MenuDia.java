@@ -16,7 +16,7 @@ public class MenuDia extends Menu {
     }
 
     @Override
-    public void calcularValorMenu() {
+    public void calcularValorMenu() {s
         valorFinal = valorInicial + valorPostre + valorBebida;
     }
 
